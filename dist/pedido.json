@@ -1,0 +1,24 @@
+{
+    "id": 1234,
+    "cliente": {
+        "id": 24,
+        "nome": "Guilherme Haynes Howe"
+    },
+    "itens": [
+        {
+            "id": 1,
+            "descricao": "Cerveja Brahma Litrão",
+            "qtd": 6
+        },
+        {
+            "id": 2,
+            "descricao": "Mendorato 500g",
+            "qtd": 2
+        },
+        {
+            "id": 3,
+            "descricao": "Paçoquita caixa com 24",
+            "qtd": 12
+        }
+    ]
+}
